@@ -1,0 +1,135 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.titulo{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+    width:auto;
+    height: 120px;
+    background-color: cornflowerblue;
+    margin: 0px;
+}
+#texto1 {
+    display: flex;
+    justify-content:space-between;
+    width: 50%; 
+}
+#imagem{
+    display: block;
+    margin: 20px auto;
+}
+#textoazul{
+    color: cornflowerblue;
+}
+#amarelo{
+    color: yellow;
+}
+#branco{
+    color: white;
+}
+.texto2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+#texto3{
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+#texto4{
+    display: flex;
+    background-color: rgba(0, 132, 255, 0.625);
+    width:auto;
+    height: 350px;
+    align-items: center;
+    flex-direction: column;
+}
+#servicos{
+    margin: 2%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: justify;
+    width: 600px;
+}
+#itens{
+    display: flex;
+    align-items: left;
+}
+#corretores{
+    display: flex;
+    color: cornflowerblue;
+    align-items: center;
+    flex-direction: column;
+}
+#texto5{
+    display: block;
+    margin: 20px auto;
+    width: 600px;
+}
+#contatos{
+    display: flex;
+    background-color: rgba(0, 132, 255, 0.625);
+    width:auto;
+    height: auto;
+    align-items: center;
+    flex-direction: column;
+}
+#texto6{
+    margin: 2%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: justify;
+    width: 500px;
+}
+iframe{
+    width: 600px;
+    height: 300px;
+}
+#texto7{
+    display: flex;
+    background-color: black;
+    align-items:center;
+    flex-direction: column;
+    width: 800px;
+    height: 50px;
+}
+#b1{
+    margin: 2%;
+    color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 190px;
+    background-color: white;
+    margin-left: 40%;
+    border-radius: 3px;
+}
+#b2{
+    margin: 2%;
+    color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 150px;
+    background-color: white;
+    margin-left: 42%;
+    border-radius: 3px;
+}
+#b3{
+    margin: 2%;
+    color: cornflowerblue;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 120px;
+    background-color: white;
+    margin-left: 43%;
+    border-radius: 3px;
+}
+body{
+    margin: 0;
+}
